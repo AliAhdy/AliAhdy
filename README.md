@@ -1,6 +1,6 @@
 # Hi there, I'm Ali 👋
 
-![GitHub followers](https://img.shields.io/github/followers/AliAhdy?style=social) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/AliAhdy?style=social) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin&logoColor=)
 
 Welcome to my GitHub profile! I'm currently pursuing my Master's in IT-Security, with a passion for developing innovative solutions and learning new technologies.
 
@@ -9,6 +9,12 @@ Welcome to my GitHub profile! I'm currently pursuing my Master's in IT-Security,
 - 🌱 I’m 23 years old
 - 💬 Ask me about software engineering, cybersecurity, and project management.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ali-al-haidary-7401ab21b)
+
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAhdy&show_icons=true&hide_border=true)
+
 
 ## 🛠️ Technologies & Tools
 
@@ -32,10 +38,6 @@ Here is a key project I've been working on:
 - **Technologies Used**: BCheck, Burp Suite
 - **Highlights**: Automates security checks in web applications.
 
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAhdy&show_icons=true&hide_border=true)
 
 ## 📫 Connect with Me
 
