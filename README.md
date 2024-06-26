@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm currently pursuing my Master's in IT-Security,
 ## About Me
 
 - 🌱 I’m 23 years old
-- 💬 Ask me about software engineering, cybersecurity, and project management.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ali-al-haidary-7401ab21b)
 
 
