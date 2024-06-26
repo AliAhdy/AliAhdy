@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm currently pursuing my Master's in IT-Security,
 Here is a key project I've been working on:
 
 ### [OWASP-ASVS-V4.0.3-Burp-Suite-BChecks](https://github.com/AliAhdy/OWASP-ASVS-V4.0.3-Burp-Suite-BChecks)
-![Burp Suite Logo](https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/PortSwigger_Burp_Suite_Professional_Logo.png/320px-PortSwigger_Burp_Suite_Professional_Logo.png)
 - **Description**: Burp Suite BCheck Scripts for OWASP ASVS V4.0.3, developed as part of my bachelor's thesis.
 - **Technologies Used**: BCheck, Burp Suite
 - **Highlights**: Automates security checks in web applications.
