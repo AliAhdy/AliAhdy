@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm currently pursuing my Master's in IT-Security,
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAhdy&show_icons=true&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAhdy&show_icons=true&hide_border=true&count_private=true)
 
 
 ## 🛠️ Technologies & Tools
